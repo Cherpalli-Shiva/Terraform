@@ -1,0 +1,2 @@
+This is a Infrastructure as code module to create EC2 in AWS.
+
